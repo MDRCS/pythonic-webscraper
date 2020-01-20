@@ -1,11 +1,11 @@
-### WEB SCRAPER TO GET BOOKS DATA FROM A WEBSITE
+# WEB SCRAPER TO GET BOOKS DATA FROM A WEBSITE
 
-## *TOOLS USED :
+## + TOOLS USED :
 
-# - Python 
-# - Asyncio & Aiohttp
-# - BeautifulSoup 4
+### - Python 
+### - Asyncio & Aiohttp
+### - BeautifulSoup 4
 
-# etc ...
+### etc ...
 
-# This webscraper use asynchronous requests that enhance execution time exceptionally.
+### This webscraper use asynchronous requests that enhance execution time exceptionally.
